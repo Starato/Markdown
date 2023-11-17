@@ -8,8 +8,8 @@ Flay owns several successul restuarants including Bobby's Burger Palace, Bobby's
 
 Here are some of his recipes:
 
-[Perfect Burger](./perfectBurger)
+[Perfect Burger](./perfectBurger.md)
 
-[Standing Rib Roast](./standingRibRoast)
+[Standing Rib Roast](./standingRibRoast.md)
 
-[Grilled Snapper Vera Cruz](./grilledSnapperVeraCruz)
+[Grilled Snapper Vera Cruz](./grilledSnapperVeraCruz.md)
